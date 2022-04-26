@@ -1,0 +1,117 @@
+body {
+font-family: Arial, sans-serif;}
+nav{
+	width: 100%;
+	height: 60px;
+	background: #344051;
+}
+.logo{
+	color: #fff;
+	font-size: 30px;
+	line-height: 60px;
+	padding-left: 388px;
+	float: left;
+}
+.menu {
+	float: left;
+	padding-left: 432px;
+}
+
+.menu li{
+	float: left;
+	line-height: 60px;
+	color: #fff;
+	margin-right: 40px;
+	font-size: 16px;
+	text-transform: uppercase;
+}
+
+.main {
+	width: 100% ;
+	height: calc(100% - 60px) ;
+	background: url(../img/boy.png) 90% 100%/auto 85% no-repeat ,url(../img/bg.jpg) center/cover no-repeat;
+}
+
+.forza {
+	float: left;
+	margin: 432px 0px 0px 404px;
+	color: #2c384a;
+	text-align: center;
+}
+.forza h1 {
+	font-size: 60px;
+	font-weight: bold;
+
+}
+.forza h4 {
+	margin-top: 38px;
+	font-size: 22px;
+	color: #78918d;
+	font-weight: bold;
+}
+.forza input {
+	height: 40px;
+	text-align: center;
+	border: 2px solid #6d7682;
+	background: none;
+	border-radius: 5px;
+	color:#6d7682 ;
+	font-size: 13px;
+	padding: 0px 16px;
+	margin-top: 58px;
+	margin: 58px 28px 0px 14px;
+}
+.main2 {
+	background: url(../img/about_me.jpg) ;
+}
+.main2 h3{
+	text-align: center;
+	margin-top: 20px;
+	font-weight: bold;
+	margin-bottom: 20px;
+	
+}
+
+.lorem_about{
+	text-align: center;
+	margin: 100px 20px 50px 10%;
+	background: url(../img/about_me.jpg) ;
+}
+.main2 input{
+	height: 45px;
+	text-align: center;
+	border: 3px solid #6d7682;
+	background: none;
+	border-radius: 5px;
+	color:#6d7682 ;
+	font-size: 17px;
+	padding: 0px 30px;
+	margin-top: 58px;
+	margin: 200px 20px 200px 45%;
+}
+.main3 h3 {
+	text-align: center;
+	margin-top: 30px;
+	font-weight: bold;
+	margin-bottom: 80px;
+
+}
+
+.main31 h4{
+	
+	margin-top: 20px;
+	font-weight: bold;
+	margin-bottom: 20px;
+	
+}
+
+.main32 {
+	
+	margin-top: 70px;
+	font-weight: bold;
+	margin-bottom: 20px;
+	float: right;
+}
+
+
+
